@@ -196,7 +196,8 @@ ____/ \__,_| _.__/  \__,_| \___/  _|  _|  _| _| _|  _| \__,_| \__| \___/  _|
 - **VirusTotal** → [virustotal.com](https://virustotal.com/)  
 - **WaybackArchive** → [archive.org/wayback](https://archive.org/wayback)  
 - **WhoisXML** → [whoisxmlapi.com](https://whoisxmlapi.com)  
-- **ZoomEyeAPI** → [www.zoomeye.hk](https://www.zoomeye.hk/)  
+- **ZoomEyeAPI** → [www.zoomeye.hk](https://www.zoomeye.hk/)
+- **IP.THC.ORG** → [ip.thc.org](https://ip.thc.org))
 
 
 ### Installation:
