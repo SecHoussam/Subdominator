@@ -49,5 +49,6 @@ def sources():
               "[***whoisxml****](https://whoisxmlapi.com)",
               "[***zoomeyeapi****](https://www.zoomeye.hk/)", 
               "[***rapidfinder****](https://rapidapi.com/Glavier/api/subdomain-finder3/pricing)", 
-              "[***rapidscan****](https://rapidapi.com/sedrakpc/api/subdomain-scan1/pricing)",]
+              "[***rapidscan****](https://rapidapi.com/sedrakpc/api/subdomain-scan1/pricing)",
+              "[***IP.THC****](https://ip.thc.org/api/v1/lookup/subdomains)"]
     return source
